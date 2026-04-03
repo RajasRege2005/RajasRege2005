@@ -167,6 +167,18 @@ Engineered and optimized an ML pipeline for detecting AI-generated phishing URLs
 
 ---
 
+## 📊 GitHub Stats:
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=RajasRege2005&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=RajasRege2005&theme=github_dark)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RajasRege2005&layout=compact&theme=github_dark)
+
+</div>
+
 <div align="center">
 
 ### 💼 CGPA: 9.75 | IIT Bombay Intern | $75 Hackathon Winner | 800+ DSA Problems | DevOps Honors
