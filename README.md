@@ -108,10 +108,18 @@
 
 ## 🚀 Projects
 
-### 🎤 AI-Powered Mock Interviews *(ongoing)*
+### 🎤 RehearseAI *(ongoing)*
 > **Next.js · TypeScript · Supabase · LangChain · OpenCV · MediaPipe**
 
 A full-stack AI interview simulator with timed behavioral questions, video response capture, and a multi-modal analysis pipeline. Integrates LangChain for speech-to-text evaluation, MediaPipe for eye contact tracking, and Web Audio API for detecting filler words, speech rate, and tone confidence. Designed to give candidates real, actionable feedback — not just scores.
+
+---
+
+### 🌉 UniBridge — AI Study Abroad Counseling Platform *(2026)*
+> **Next.js · FastAPI · Supabase · Tailwind CSS · RAG · Twilio · Vapi · AnamAI**
+
+Built a full-stack, AI-driven counseling ecosystem that guides students through the study-abroad journey via intelligent recommendations and multimodal engagement. Implemented role-based dashboards with Google OAuth onboarding, structured lead profiling, and scoring pipelines backed by scalable Supabase data models.
+Integrated live avatar counseling, automated voice-call workflows, and WhatsApp follow-ups to create a continuous engagement loop. Leveraged RAG pipelines for context-aware university recommendations and personalized advisory, enabling end-to-end support from first interaction to session reporting and next-step planning.
 
 ---
 
